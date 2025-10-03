@@ -37,5 +37,3 @@ These insights empower stakeholders with key business metrics, enabling stategic
 ## <img src="assets/guarantee.png" alt="guarantee" width="19"/> License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution. Enjoy!
-
-
